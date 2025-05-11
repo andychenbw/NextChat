@@ -563,6 +563,7 @@ const anthropicModels = [
   "claude-3-5-sonnet-latest",
   "claude-3-7-sonnet-20250219",
   "claude-3-7-sonnet-latest",
+  "claude-3-7-sonnet-20250219-thinking",
 ];
 
 const baiduModels = [
